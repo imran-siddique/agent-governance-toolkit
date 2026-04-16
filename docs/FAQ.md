@@ -21,6 +21,9 @@ Toolkit.
 8. [How does Agent Mesh Runtime interact with Agent Mesh and the Sidecar?](#8-how-does-agent-mesh-runtime-interact-with-agent-mesh-and-the-sidecar)
 9. [How does Agent Mesh govern authentications to internal and external resources?](#9-how-does-agent-mesh-govern-authentications-to-internal-and-external-resources)
 10. [What is the difference between agent-hypervisor and agent-runtime?](#10-what-is-the-difference-between-agent-hypervisor-and-agent-runtime)
+11. [Is AGT geared towards Foundry agents or any agent type?](#11-is-agt-geared-towards-foundry-agents-or-any-agent-type)
+12. [What is the relationship between AGT and Agent 365?](#12-what-is-the-relationship-between-agt-and-agent-365)
+13. [How is AGT different from DLP and communication compliance policies?](#13-how-is-agt-different-from-dlp-and-communication-compliance-policies)
 
 ---
 
